@@ -1,6 +1,7 @@
 # ansible_playbook
 
 Develop a customized Ansible Playbook 
+
 (like GitHub - ricsanfre/ansible-role-minio: Ansible role for installing and configuring Minio ) for our lokal MiniO Cluster.
 
 -  4 Nodes
